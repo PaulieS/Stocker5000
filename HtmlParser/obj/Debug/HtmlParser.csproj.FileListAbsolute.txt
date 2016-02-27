@@ -1,0 +1,4 @@
+D:\VisualStudio Projects\Stocker5000\HtmlParser\bin\Debug\HtmlParser.dll
+D:\VisualStudio Projects\Stocker5000\HtmlParser\bin\Debug\HtmlParser.pdb
+D:\VisualStudio Projects\Stocker5000\HtmlParser\obj\Debug\HtmlParser.dll
+D:\VisualStudio Projects\Stocker5000\HtmlParser\obj\Debug\HtmlParser.pdb

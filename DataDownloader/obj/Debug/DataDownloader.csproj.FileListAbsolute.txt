@@ -1,0 +1,4 @@
+D:\VisualStudio Projects\Stocker5000\DataDownloader\bin\Debug\DataDownloader.dll
+D:\VisualStudio Projects\Stocker5000\DataDownloader\bin\Debug\DataDownloader.pdb
+D:\VisualStudio Projects\Stocker5000\DataDownloader\obj\Debug\DataDownloader.dll
+D:\VisualStudio Projects\Stocker5000\DataDownloader\obj\Debug\DataDownloader.pdb
